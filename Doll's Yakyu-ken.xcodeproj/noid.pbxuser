@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Doll_s_Yakyu_kenAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {528, 397}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 525}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Doll's Yakyu-ken */ = {
+		activeExec = 0;
+		executables = (
+			6D142E7A0FF7CEC0004B6785 /* Doll's Yakyu-ken */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {446, 658}}";
+			sepNavSelRange = "{225, 0}";
+			sepNavVisRange = "{0, 830}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {446, 3824}}";
+			sepNavSelRange = "{219, 30}";
+			sepNavVisRange = "{0, 765}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6D142E7A0FF7CEC0004B6785 /* Doll's Yakyu-ken */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Doll's Yakyu-ken */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Doll's Yakyu-ken */,
+		);
+		codeSenseManager = 6D142E910FF7CED5004B6785 /* Code sense */;
+		executables = (
+			6D142E7A0FF7CEC0004B6785 /* Doll's Yakyu-ken */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					268,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 267898997;
+			PBXWorkspaceStateSaveDate = 267898997;
+		};
+		perUserProjectItems = {
+			6D142E970FF7D060004B6785 = 6D142E970FF7D060004B6785 /* PBXTextBookmark */;
+			6D142E980FF7D060004B6785 = 6D142E980FF7D060004B6785 /* PBXTextBookmark */;
+			6D142E990FF7D060004B6785 = 6D142E990FF7D060004B6785 /* PBXBookmark */;
+			6D142E9A0FF7D060004B6785 = 6D142E9A0FF7D060004B6785 /* PBXTextBookmark */;
+			6D142E9B0FF7D060004B6785 = 6D142E9B0FF7D060004B6785 /* PBXTextBookmark */;
+			6D142E9C0FF7D060004B6785 = 6D142E9C0FF7D060004B6785 /* PBXTextBookmark */;
+			6D142E9D0FF7D060004B6785 = 6D142E9D0FF7D060004B6785 /* PBXTextBookmark */;
+			6D142E9E0FF7D060004B6785 = 6D142E9E0FF7D060004B6785 /* PBXTextBookmark */;
+			6D142E9F0FF7D060004B6785 = 6D142E9F0FF7D060004B6785 /* PBXTextBookmark */;
+			6D142EA50FF7D079004B6785 /* PBXTextBookmark */ = 6D142EA50FF7D079004B6785 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6D142E900FF7CED4004B6785 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6D142E7A0FF7CEC0004B6785 /* Doll's Yakyu-ken */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Doll's Yakyu-ken";
+		sourceDirectories = (
+		);
+	};
+	6D142E900FF7CED4004B6785 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	6D142E910FF7CED5004B6785 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6D142E970FF7D060004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.m */;
+		name = "Doll_s_Yakyu_kenViewController.m: 11";
+		rLen = 30;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	6D142E980FF7D060004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.h */;
+		name = "Doll_s_Yakyu_kenViewController.h: 11";
+		rLen = 0;
+		rLoc = 225;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 0;
+	};
+	6D142E990FF7D060004B6785 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Doll_s_Yakyu_kenAppDelegate.h */;
+	};
+	6D142E9A0FF7D060004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.h */;
+		name = "Doll_s_Yakyu_kenViewController.h: 8";
+		rLen = 0;
+		rLoc = 158;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 0;
+	};
+	6D142E9B0FF7D060004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.m */;
+		name = "Doll_s_Yakyu_kenViewController.m: 12";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	6D142E9C0FF7D060004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.h */;
+		name = "Doll_s_Yakyu_kenViewController.h: 8";
+		rLen = 0;
+		rLoc = 158;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 0;
+	};
+	6D142E9D0FF7D060004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.m */;
+		name = "Doll_s_Yakyu_kenViewController.m: 11";
+		rLen = 30;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 0;
+	};
+	6D142E9E0FF7D060004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Doll_s_Yakyu_kenViewController.h */;
+		name = "Doll_s_Yakyu_kenViewController.h: 11";
+		rLen = 0;
+		rLoc = 225;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 0;
+	};
+	6D142E9F0FF7D060004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Doll_s_Yakyu_kenAppDelegate.h */;
+		name = "Doll_s_Yakyu_kenAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+	6D142EA50FF7D079004B6785 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Doll_s_Yakyu_kenAppDelegate.h */;
+		name = "Doll_s_Yakyu_kenAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 0;
+	};
+}

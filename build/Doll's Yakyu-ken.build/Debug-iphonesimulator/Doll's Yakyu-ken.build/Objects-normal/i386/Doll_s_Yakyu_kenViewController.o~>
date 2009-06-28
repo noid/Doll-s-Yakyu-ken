@@ -1,0 +1,164 @@
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:13: warning: cannot find interface declaration for 'Doll_s_Yakyu_kenViewController'
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:13: error: no declaration of property 'btn_g' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:13: error: no declaration of property 'btn_t' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:13: error: no declaration of property 'btn_p' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:13: error: no declaration of property 'btn_restart' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:14: error: no declaration of property 'beforetitle' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:14: error: no declaration of property 'aftertitle' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:14: error: no declaration of property 'rslt' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:14: error: no declaration of property 'other' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:15: error: no declaration of property 'win' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:15: error: no declaration of property 'lose' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:15: error: no declaration of property 'ready' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:15: error: no declaration of property 'even' found in the interface
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m: In function '-[Doll_s_Yakyu_kenViewController btn_restart_down:]':
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:18: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:19: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:20: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:21: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:22: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:23: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:24: error: request for member 'aftertitle' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:25: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:26: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:27: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:28: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:29: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:30: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m: In function '-[Doll_s_Yakyu_kenViewController btn_g_down:]':
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:35: error: request for member 'aftertitle' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:41: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:43: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:45: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:49: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:50: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:51: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:52: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:53: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:54: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:55: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:56: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:57: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:58: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:60: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:61: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:62: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:63: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:64: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:65: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:66: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:67: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:68: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:69: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:70: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:72: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:73: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:74: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:75: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:76: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:77: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:78: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:79: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:80: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:81: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:82: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m: In function '-[Doll_s_Yakyu_kenViewController btn_t_down:]':
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:88: error: request for member 'aftertitle' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:94: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:96: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:98: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:102: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:103: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:104: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:105: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:106: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:107: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:108: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:109: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:110: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:112: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:113: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:114: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:115: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:116: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:117: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:118: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:119: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:120: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:121: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:122: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:124: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:125: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:126: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:127: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:128: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:129: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:130: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:131: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:132: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:133: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:134: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m: In function '-[Doll_s_Yakyu_kenViewController btn_p_down:]':
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:140: error: request for member 'aftertitle' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:146: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:148: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:150: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:154: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:155: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:156: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:157: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:158: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:159: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:160: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:161: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:162: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:164: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:165: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:166: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:167: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:168: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:169: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:170: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:171: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:172: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:173: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:174: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:176: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:177: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:178: error: request for member 'btn_p' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:179: error: request for member 'btn_t' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:180: error: request for member 'btn_g' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:181: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:182: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:183: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:184: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:185: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:186: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m: In function '-[Doll_s_Yakyu_kenViewController viewDidLoad]':
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:212: error: no super class declared in @interface for 'Doll_s_Yakyu_kenViewController'
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:214: error: request for member 'aftertitle' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:215: error: request for member 'rslt' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:216: error: request for member 'other' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:217: error: request for member 'btn_restart' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:222: error: request for member 'win' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:223: error: request for member 'lose' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:224: error: request for member 'ready' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:225: error: request for member 'even' in something not a structure or union
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m: In function '-[Doll_s_Yakyu_kenViewController didReceiveMemoryWarning]':
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:240: error: no super class declared in @interface for 'Doll_s_Yakyu_kenViewController'
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m: In function '-[Doll_s_Yakyu_kenViewController dealloc]':
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:252: error: 'btn_g' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:252: error: (Each undeclared identifier is reported only once
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:252: error: for each function it appears in.)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:253: error: 'btn_t' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:254: error: 'btn_p' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:255: error: 'btn_restart' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:256: error: 'beforetitle' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:257: error: 'aftertitle' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:258: error: 'rslt' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:259: error: 'other' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:260: error: 'win' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:261: error: 'lose' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:262: error: 'ready' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:263: error: 'even' undeclared (first use in this function)
+/Users/noid/Documents/Doll's Yakyu-ken/Doll's Yakyu-ken/Classes/Doll_s_Yakyu_kenViewController.m:264: error: no super class declared in @interface for 'Doll_s_Yakyu_kenViewController'
